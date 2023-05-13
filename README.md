@@ -32,7 +32,7 @@ To get started, follow these instructions:
 
    - For Windows:
      ```
-     venv\Scripts\activate.bat
+     venv\Scripts\activate
      ```
    - For Unix/macOS:
      ```
