@@ -1,4 +1,4 @@
-# Minecraft Server Status Fetcher
+# MCStatus
 
 ## Description
 
